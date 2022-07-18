@@ -1,78 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://supdiscover.online/rov/rostov/airport/airport-first-prud.html</loc>
+        <loc>/danger/danger.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/rov/rostov/airport/airport-prudy.html</loc>
+        <loc>/krr/azov-krr/azov-krr.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/rov/rostov/airport/airport-second-prud.html</loc>
+        <loc>/krr/black-sea/black-sea.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/rov/rostov/airport/airport-third-prud.html</loc>
+        <loc>/krr/catalogue-krr.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/rov/rostov/green-island/green-island-main.html</loc>
+        <loc>/rov/azov-rov/azov-rov.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/rov/rostov/green-island/green-island-spot-1.html</loc>
+        <loc>/rov/azov-rov/pavlo-ochakovo.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/rov/rostov/green-island/green-island-spot-2.html</loc>
+        <loc>/rov/azov-rov/stefanidionodar.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/rov/rostov/green-island/green-island-spot-3.html</loc>
+        <loc>/rov/rostov/airport/airport-first-prud.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/rov/rostov/green-island/green-island-spot-4.html</loc>
+        <loc>/rov/rostov/airport/airport-prudy.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/rov/rostov/rov-main.html</loc>
+        <loc>/rov/rostov/airport/airport-second-prud.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/rov/rov-oblast/darievski-prud.html</loc>
+        <loc>/rov/rostov/airport/airport-third-prud.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/rov/rov-oblast/kras-sulin-kanion.html</loc>
+        <loc>/rov/rostov/green-island/green-island-main.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/rov/rov-oblast/rov-oblast.html</loc>
+        <loc>/rov/rostov/green-island/green-island-spot-1.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/rov/catalogue-rov.html</loc>
+        <loc>/rov/rostov/green-island/green-island-spot-2.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/эталон много карточек.html</loc>
+        <loc>/rov/rostov/green-island/green-island-spot-3.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/эталон спота.html</loc>
+        <loc>/rov/rostov/green-island/green-island-spot-4.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/about.html</loc>
+        <loc>/rov/rostov/rov-main.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/azov-krr.html</loc>
+        <loc>/rov/rov-oblast/darievski-prud.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/black-sea.html</loc>
+        <loc>/rov/rov-oblast/kras-krym.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/catalogue-krr.html</loc>
+        <loc>/rov/rov-oblast/kras-sulin-kanion.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/catalogue-main.html</loc>
+        <loc>/rov/rov-oblast/krym.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/contact-us.html</loc>
+        <loc>/rov/rov-oblast/ozernyj.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/donate.html</loc>
+        <loc>/rov/rov-oblast/rov-oblast.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/</loc>
+        <loc>/rov/rov-oblast/salt-lake.html</loc>
     </url>
     <url>
-        <loc>https://supdiscover.online/login.html</loc>
+        <loc>/rov/rov-oblast/samarskoe.html</loc>
+    </url>
+    <url>
+        <loc>/rov/rov-oblast/sambek.html</loc>
+    </url>
+    <url>
+        <loc>/rov/rov-oblast/sultan.html</loc>
+    </url>
+    <url>
+        <loc>/rov/rov-oblast/svyazist.html</loc>
+    </url>
+    <url>
+        <loc>/rov/rov-routes/aksai-1/aksai-route-1.html</loc>
+    </url>
+    <url>
+        <loc>/rov/rov-routes/rov-routes.html</loc>
+    </url>
+    <url>
+        <loc>/rov/catalogue-rov.html</loc>
+    </url>
+    <url>
+        <loc>/about.html</loc>
+    </url>
+    <url>
+        <loc>/catalogue-main.html</loc>
+    </url>
+    <url>
+        <loc>/contact-us.html</loc>
+    </url>
+    <url>
+        <loc>/donate.html</loc>
+    </url>
+    <url>
+        <loc>/</loc>
+    </url>
+    <url>
+        <loc>/login.html</loc>
+    </url>
+    <url>
+        <loc>/эталон много карточек.html</loc>
+    </url>
+    <url>
+        <loc>/эталон спота.html</loc>
     </url>
 </urlset>
