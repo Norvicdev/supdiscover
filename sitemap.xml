@@ -4,10 +4,46 @@
         <loc>/danger/danger.html</loc>
     </url>
     <url>
+        <loc>/krr/azov-krr/dolzhanka/dolzhanka.html</loc>
+    </url>
+    <url>
+        <loc>/krr/azov-krr/ejsk/ejsk.html</loc>
+    </url>
+    <url>
+        <loc>/krr/azov-krr/yasenskij-liman/yasenskij-liman.html</loc>
+    </url>
+    <url>
         <loc>/krr/azov-krr/azov-krr.html</loc>
     </url>
     <url>
+        <loc>/krr/black-sea/aaq/anapa-main.html</loc>
+    </url>
+    <url>
+        <loc>/krr/black-sea/dzhubga/dzhubga.html</loc>
+    </url>
+    <url>
+        <loc>/krr/black-sea/gdz/gelendzhik.html</loc>
+    </url>
+    <url>
+        <loc>/krr/black-sea/sochi/big-sochi.html</loc>
+    </url>
+    <url>
+        <loc>/krr/black-sea/tuapse/tuapse.html</loc>
+    </url>
+    <url>
         <loc>/krr/black-sea/black-sea.html</loc>
+    </url>
+    <url>
+        <loc>/krr/krasnodar/krr-main.html</loc>
+    </url>
+    <url>
+        <loc>/krr/krr-kraj/lakes/krr-lakes.html</loc>
+    </url>
+    <url>
+        <loc>/krr/krr-kraj/river/krr-rivers.html</loc>
+    </url>
+    <url>
+        <loc>/krr/krr-kraj/krr-kraj.html</loc>
     </url>
     <url>
         <loc>/krr/catalogue-krr.html</loc>
@@ -17,6 +53,9 @@
     </url>
     <url>
         <loc>/rov/azov-rov/pavlo-ochakovo.html</loc>
+    </url>
+    <url>
+        <loc>/rov/azov-rov/primorka.html</loc>
     </url>
     <url>
         <loc>/rov/azov-rov/stefanidionodar.html</loc>
